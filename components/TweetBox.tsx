@@ -6,14 +6,19 @@ import {
   PhotographIcon,
   SearchCircleIcon,
 } from '@heroicons/react/outline'
+import { useSession } from 'next-auth/react'
 
 function TweetBox() {
   const [input, setInput] = useState<string>('')
+  const { data: session } = useSession()
 
   return (
     <div className="flex space-x-2 p-5">
       <img
-        src="https://pbs.twimg.com/profile_images/1250077050662240256/RH_l8Z3s_400x400.jpg"
+        src={
+          session?.user?.image ||
+          'https://pbs.twimg.com/profile_images/1250077050662240256/RH_l8Z3s_400x400.jpg'
+        }
         alt="profile image"
         className="mr-5 mt-4 h-14 w-14 rounded-full object-cover"
       />
@@ -37,7 +42,7 @@ function TweetBox() {
             </div>
 
             <button
-              disabled={!input}
+              disabled={!input || !session}
               className="rounded-full bg-twitter px-5 py-2 font-bold text-white disabled:opacity-40"
             >
               Tweet
