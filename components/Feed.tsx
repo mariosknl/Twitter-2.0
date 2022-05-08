@@ -36,7 +36,7 @@ function Feed({ tweets: tweetsProp }: Props) {
 
       {/* Tweetbox */}
       <div>
-        <TweetBox />
+        <TweetBox setTweets={setTweets} />
       </div>
 
       <div>
