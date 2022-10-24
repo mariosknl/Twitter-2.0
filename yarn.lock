@@ -137,10 +137,10 @@
     object-assign "^4.1.1"
     rxjs "^6.0.0"
 
-"@sanity/client@^3.3.5":
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-3.3.5.tgz#25d7dc69c416d3fa235e02ca3ca520d6f48296f4"
-  integrity sha512-6KjIjPKW/+iJR/0zPTmDvPr8ax8c8wC3QoOM9b0cjzn5G4a2EHvGq/2NgvBwSQ8h4GXwa2GZ75BNE/fO/kNaxg==
+"@sanity/client@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-3.4.1.tgz#d1bd02bafc50eb0aac8d5b6fab942da52549652f"
+  integrity sha512-WSvnroCHqboUeyY0nl71vDPKmfurXI0mtqdNDb5u8MW00CAHRyCt1+Sgy39D/g+6R35FYniV31vTSTo3ofim0A==
   dependencies:
     "@sanity/eventsource" "^4.0.0"
     get-it "^6.1.1"
@@ -591,10 +591,15 @@ groq-js@^1.0.1:
   resolved "https://registry.yarnpkg.com/groq-js/-/groq-js-1.0.1.tgz#2641e9169fd4641b8ddad6f21b32baa1052a37d6"
   integrity sha512-bv2UkWYkaQkZAEbsfKy+bqdeFAzrQnWZ7zYislCGANzhZSqBVf0uRKeY8r/nXdBiMwuMDA6TxHgwG2FJVKAy6Q==
 
-groq@^2.0.9, groq@^2.29.3:
+groq@^2.0.9:
   version "2.29.3"
   resolved "https://registry.yarnpkg.com/groq/-/groq-2.29.3.tgz#e767152202ab6aad64b2c33dfc904ee4e4c16d8e"
   integrity sha512-j3HFq8Qwg36rREp2Xl2vecUz47LX6cedD8cqq+JKX0iNj9yiwelOSKpRS5jxhkDZQv5xBAiqtpU2Ylv5DQ5g2A==
+
+groq@^2.33.2:
+  version "2.33.2"
+  resolved "https://registry.yarnpkg.com/groq/-/groq-2.33.2.tgz#3a85c85a1e43e79bba77f171f23997f541d61010"
+  integrity sha512-5pf4c91JESCS28IJCgolJq/WBw4Xvf2m8FgZVUlrCig17I+qERosALAHLyyutXu403EYnyCD3DdCLaPb3aGneA==
 
 has@^1.0.3:
   version "1.0.3"
@@ -776,14 +781,14 @@ next-auth@4.15.0:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-0.8.4.tgz#d6105bec1334679c693825f68ef0c5756a0330d3"
-  integrity sha512-3ZgW+1+X0Y2PPCqdt7RIKID4EyX9jqnn3lrHahqLW6N6C/8Up71TA0M+Ltq2vlLUSt9YkvqsTmHP5hgaOg2SWQ==
+next-sanity@0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-0.8.5.tgz#b6bdd08d4132d037442b000ea0ce1fc86afe95ab"
+  integrity sha512-WJat3KIecCrwSnReVrGE1LlAQF4VnxhueesJaEy4yvLIwg0xdLNVEBYpxgiX17axehZbRQ/c7Dfah/aZfoRSxw==
   dependencies:
-    "@sanity/client" "^3.3.5"
+    "@sanity/client" "^3.4.1"
     "@sanity/groq-store" "^0.4.1"
-    groq "^2.29.3"
+    groq "^2.33.2"
 
 next@latest:
   version "12.1.6"
