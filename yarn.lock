@@ -149,10 +149,10 @@
     event-source-polyfill "1.0.25"
     eventsource "^2.0.2"
 
-"@sanity/groq-store@^1.0.3":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@sanity/groq-store/-/groq-store-1.0.4.tgz#ad014fb2bbd7037a5dd8a3d6270787b4f1a70927"
-  integrity sha512-/VkUkTR3/xVIcFUrfxSm6NdPCgXg8MURNd8K7ftdRonNGh/rOZtTcvqj24mJueZhuoy+843himF3nOleMtuyrA==
+"@sanity/groq-store@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@sanity/groq-store/-/groq-store-1.1.0.tgz#9ca80550c0ce9742141c1ff57d28286748184982"
+  integrity sha512-D63l/5CvKe4SXbLEWj3+eV7WvQMj1udQA7SjO8WWnrowegS1bPN2T2dcoIexCJYlVSbWEmfFNaBkM3bdFcyEbA==
   dependencies:
     "@sanity/types" "^2.35.0"
     eventsource "^2.0.2"
@@ -725,13 +725,13 @@ next-auth@4.16.4:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-1.0.9.tgz#8ae6a63c77035fc7afa7567eb7794c1ff801106f"
-  integrity sha512-Iga8oF8+/sIpk3MJ5DFSDWq5ItOmsOUz0ytNksfp9g1k6aEOtLvT2eQ/vZ1WIxsnZj1tRv8LhAwPewxfM41Krw==
+next-sanity@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-1.1.0.tgz#74fb470a7bdd33b471637eda09b791c969f79bad"
+  integrity sha512-E8N+aiNcbaPk2f0eRS8xscgy0huPUBiZJdAw5sCL/brtjSlrJl+1wOCcp+N5m4YwI5A2DRFvt5gpWdUgwjWCSw==
   dependencies:
     "@sanity/client" "^3.4.1"
-    "@sanity/groq-store" "^1.0.3"
+    "@sanity/groq-store" "^1.1.0"
     groq "^2.33.2"
 
 next@latest:
