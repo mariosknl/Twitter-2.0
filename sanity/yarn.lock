@@ -2245,6 +2245,15 @@
     debounce "1.0.0"
     md5-o-matic "^0.1.1"
 
+"@rexxars/react-split-pane@^0.1.93":
+  version "0.1.93"
+  resolved "https://registry.yarnpkg.com/@rexxars/react-split-pane/-/react-split-pane-0.1.93.tgz#d9e00eb5d91cfb49f3e8ca30f6c8d450bf85d6ff"
+  integrity sha512-Pok8zATwd5ZpWnccJeSA/JM2MPmi3D04duYtrbMNRgzeAU2ANtq3r4w7ldbjpGyfJqggqn0wDNjRqaevXqSxQg==
+  dependencies:
+    prop-types "^15.7.2"
+    react-lifecycles-compat "^3.0.4"
+    react-style-proptype "^3.2.2"
+
 "@rushstack/eslint-patch@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
@@ -2965,10 +2974,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.0.6":
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.0.6.tgz#9491ac1a01d88fc1fbb6b04d2ee0bfbf0804ce88"
-  integrity sha512-FuEjP4inbPhVvp3VccxcbWA49wto7i3oDq/L1HYWSMH3YHRB5zcfABkjLx/Tp2eSoQA72mA4XTDD9+ZUXR1iPQ==
+"@sanity/vision@3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.1.2.tgz#9036437ac171342349d445086a228b31371183c5"
+  integrity sha512-0YpaufuyU2Q/JfHKnqTVZx36KgFtjj4AQUJupygoW+ngsg9Y6gJZfPukZ0rEEVtnvpVXNh+ZdjpuxdytHiNDmQ==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
@@ -2979,6 +2988,7 @@
     "@juggle/resize-observer" "^3.3.1"
     "@lezer/highlight" "^1.0.0"
     "@rexxars/react-json-inspector" "^8.0.1"
+    "@rexxars/react-split-pane" "^0.1.93"
     "@sanity/color" "^2.1.20"
     "@sanity/icons" "^2.1.0"
     "@sanity/ui" "^1.0.0"
@@ -2987,7 +2997,6 @@
     is-hotkey "^0.1.6"
     json5 "^1.0.1"
     lodash "^4.17.21"
-    react-split-pane "^0.1.84"
 
 "@sanity/webpack-dev-middleware@^2.0.6":
   version "2.0.6"
