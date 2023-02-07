@@ -6,8 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@heroicons/react": "2.0.13",
     "@portabletext/react": "2.0.1",
+    "@heroicons/react": "2.0.14",
     "@sanity/image-url": "1.0.2",
     "next": "latest",
     "next-auth": "4.19.2",
@@ -25,7 +25,7 @@
     "autoprefixer": "10.4.13",
     "postcss": "8.4.21",
     "prettier": "2.8.3",
-    "prettier-plugin-tailwindcss": "0.2.1",
+    "prettier-plugin-tailwindcss": "0.2.2",
     "tailwindcss": "3.2.4",
     "typescript": "4.9.4"
   }
