@@ -10,7 +10,7 @@
     "@heroicons/react": "2.0.16",
     "@sanity/image-url": "1.0.2",
     "next": "latest",
-    "next-auth": "4.19.2",
+    "next-auth": "4.20.1",
     "next-sanity": "4.1.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
