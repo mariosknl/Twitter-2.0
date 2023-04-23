@@ -105,10 +105,10 @@
   resolved "https://registry.yarnpkg.com/@panva/hkdf/-/hkdf-1.0.4.tgz#4e02bb248402ff6c5c024e23a68438e2b0e69d67"
   integrity sha512-003xWiCuvePbLaPHT+CRuaV4GlyCAVm6XYSbBZDHoWZGn1mNkVKFaDbGJjjxmEFvizUwlCoM6O18FCBMMky2zQ==
 
-"@portabletext/react@2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-2.0.2.tgz#fcfe7983d6933efbccadeda2e6182e09324b05cb"
-  integrity sha512-8b325SwY4vAFP1Fu7coJUx/eOoenm197VnCWauJSH0zawwz6n8ouhFc5se1FKPpPPbJMqH3C+RGv2FOWQfB51A==
+"@portabletext/react@2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-2.0.3.tgz#df7aa932a8a94974e4202323e83d5a5989ad5e46"
+  integrity sha512-dfsqsmh4loX28lTRWqUKyNEnsn1+tsJxjs7TVh5C4tpm4lbOjkyHJQwqcziSthr8D8xaMjkFyeGY6yV8HTMQDg==
   dependencies:
     "@portabletext/toolkit" "^2.0.1"
     "@portabletext/types" "^2.0.2"
