@@ -2948,10 +2948,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.9.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.9.0.tgz#bcf3eb1e17f97b988d71a2023f45085c18858718"
-  integrity sha512-KMSolVmpKLl9QRnT8PCYce0haLSDt9bcktHNw0QwR1rALJjT63N9QIMkGeWjyHfD14r1YIrehjj8DLXc51FXtg==
+"@sanity/vision@3.10.1":
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.10.1.tgz#b87252d1bc83d6ce565dd4163ba7ba260c29e046"
+  integrity sha512-bt7PUsQo/iPRKSLjgIJslWUpG40m1kkctao6gh0gBz1RHs7Ccjo98o+lElJpb8Gw5OqPKwUKXVRV073pU3U3hA==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
