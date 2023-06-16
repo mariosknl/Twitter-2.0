@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@portabletext/react": "3.0.0",
+    "@portabletext/react": "3.0.2",
     "@heroicons/react": "2.0.18",
     "@sanity/image-url": "1.0.2",
     "next": "latest",
