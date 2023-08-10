@@ -20,12 +20,12 @@
     "@sanity/default-login": "2.36.2",
     "@sanity/desk-tool": "2.36.2",
     "@sanity/eslint-config-studio": "3.0.0",
-    "@sanity/vision": "3.14.4",
+    "@sanity/vision": "3.15.0",
     "eslint": "8.46.0",
     "prop-types": "15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "6.0.5"
+    "styled-components": "6.0.7"
   },
   "devDependencies": {},
   "repository": {
