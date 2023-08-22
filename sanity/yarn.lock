@@ -3557,10 +3557,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.15.0":
-  version "3.15.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.15.0.tgz#b4e0fee6dc786f6b5a7040e826442635c32c95f8"
-  integrity sha512-YwUyrU98vZGJY7hUtFCUfoOX7MznELvI8SOXKSA40B/8CUUOB7m+Arw8PNsdkJ9C7/U96VzvDxmkrsOZzsosJg==
+"@sanity/vision@3.15.1":
+  version "3.15.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.15.1.tgz#8e083fc5e8e758a091ac7a6ec021aef430b1fab5"
+  integrity sha512-rHPbsHGdwplRsfx00TaQ6MKWV2nekupFQUi3dU1ywGvtnYaXPq5LHJLMb0ARePwnvtPgZcx8j4jreD1nHEA7QA==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
