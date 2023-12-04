@@ -19,7 +19,7 @@
     "react-twitter-embed": "4.0.4"
   },
   "devDependencies": {
-    "@types/react": "18.2.38",
+    "@types/react": "18.2.42",
     "@types/node": "20.10.0",
     "@types/react-timeago": "4.1.6",
     "autoprefixer": "10.4.16",
