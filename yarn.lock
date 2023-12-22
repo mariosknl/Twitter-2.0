@@ -236,10 +236,10 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
-"@types/react-timeago@4.1.6":
-  version "4.1.6"
-  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-4.1.6.tgz#f037c72ddf1a74ba1c62ca635cf3e9905b43f3ad"
-  integrity sha512-BFUH7FEple9m0K8dNvOqhba3+iCyrgsLcRtAnaZ6HlXvG8AJfC/7NCDcLaXfB1jvpAezwDRi/BflzdaLI4+Fow==
+"@types/react-timeago@4.1.7":
+  version "4.1.7"
+  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-4.1.7.tgz#0c589e329180ce2cbfba1fd54904613152d841b7"
+  integrity sha512-ogD4Ror/hDG+pQggCX+TgPgJ8W2jeeUxsgNU485Qpm0Ma+E2TND2EJuKwK5+sxlkDXDEgsHradO0zWBkTgLzNg==
   dependencies:
     "@types/react" "*"
 
