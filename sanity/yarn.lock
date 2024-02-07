@@ -3081,10 +3081,10 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.7"
 
-"@sanity/ui@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.0.0.tgz#3ef9fd830b8f73398569d1634b702207d4602c05"
-  integrity sha512-y+vRMc74DnH2FH8BBqkjiDu5eGfy1CYKRzkKRepftKFDsUoJIdQeUPl3ULq+paeN4FqKJRzKT1j4++o8HwhmmQ==
+"@sanity/ui@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.0.1.tgz#98b2298d8ed32cb211b4df444ee033651bfed07f"
+  integrity sha512-jrdLQmU+fRLTx54uuxqfe+m/lLJTcRMk46X45UMJgOosSgvz27r0DM0uJ+hSxu/mJg0OlMNfWFZlK0e6LhDoUA==
   dependencies:
     "@floating-ui/react-dom" "^2.0.4"
     "@sanity/color" "^3.0.0"
@@ -3133,10 +3133,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.26.1":
-  version "3.26.1"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.26.1.tgz#2967e6e7df757a6fdf20df1471cb101095f2d151"
-  integrity sha512-ZZcuUwKjsskXjyp4phC5dLvmqU41wYxoISvkfnCmwDyZkziXJxRV1r/r1a6FuygRM3f1jeInln9eMgmx2WShzA==
+"@sanity/vision@3.28.0":
+  version "3.28.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.28.0.tgz#84813b757ef6d35cdc5916f8d403f8cb4b7e2305"
+  integrity sha512-F8l2rR+F6ckFn2vSy2wNo20qrWVTrl4Fn6gA6DfjC8O1BvNq+6QLcuYeSuXdoQC1A2JNuVf79hZbBrqiA7vUPQ==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
@@ -3150,10 +3150,10 @@
     "@rexxars/react-split-pane" "^0.1.93"
     "@sanity/color" "^3.0.0"
     "@sanity/icons" "^2.8.0"
-    "@sanity/ui" "^2.0.0"
+    "@sanity/ui" "^2.0.1"
     "@uiw/react-codemirror" "^4.11.4"
     hashlru "^2.3.0"
-    is-hotkey "^0.1.6"
+    is-hotkey "^0.2.0"
     json5 "^2.2.3"
     lodash "^4.17.21"
 
@@ -7361,6 +7361,11 @@ is-hotkey@^0.1.6:
   version "0.1.8"
   resolved "https://registry.npmjs.org/is-hotkey/-/is-hotkey-0.1.8.tgz#6b1f4b2d0e5639934e20c05ed24d623a21d36d25"
   integrity sha512-qs3NZ1INIS+H+yeo7cD9pDfwYV/jqRh1JG9S9zYrNudkoUQg7OL7ziXqRKu+InFjUIDoP2o6HIkLYMh1pcWgyQ==
+
+is-hotkey@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/is-hotkey/-/is-hotkey-0.2.0.tgz#1835a68171a91e5c9460869d96336947c8340cef"
+  integrity sha512-UknnZK4RakDmTgz4PI1wIph5yxSs/mvChWs9ifnlXsKuXgWmOkY/hAE0H/k2MIqH0RlRye0i1oC07MCRSD28Mw==
 
 is-negative-zero@^2.0.2:
   version "2.0.2"
