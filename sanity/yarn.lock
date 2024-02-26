@@ -3133,16 +3133,17 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.29.1":
-  version "3.29.1"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.29.1.tgz#f507209a4223dd8478311be64f03e73d3453d1ec"
-  integrity sha512-xBQy0haGbTqz+Nhqo6zCv1elEApef3jai9Wke85vNaAg2NnTKePVkjW2vhvyTUnnL5ztT5gckhovcypvP1B9mw==
+"@sanity/vision@3.30.0":
+  version "3.30.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.30.0.tgz#b4505db5b9ecc17cbe27cf198f9a83571033f1ef"
+  integrity sha512-LRch1kIvMgti+ux+4NGeqCfeUQ2/GnXX77RZghOVJpOIP5BgpXcHSER7sqRahQcFgBLaRY8mpwhLZho2zFiqxQ==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
     "@codemirror/lang-javascript" "^6.0.2"
     "@codemirror/language" "^6.2.1"
     "@codemirror/search" "^6.0.1"
+    "@codemirror/state" "^6.0.0"
     "@codemirror/view" "^6.1.1"
     "@juggle/resize-observer" "^3.3.1"
     "@lezer/highlight" "^1.0.0"
