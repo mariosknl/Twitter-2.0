@@ -154,15 +154,7 @@
   resolved "https://registry.yarnpkg.com/@panva/hkdf/-/hkdf-1.0.4.tgz#4e02bb248402ff6c5c024e23a68438e2b0e69d67"
   integrity sha512-003xWiCuvePbLaPHT+CRuaV4GlyCAVm6XYSbBZDHoWZGn1mNkVKFaDbGJjjxmEFvizUwlCoM6O18FCBMMky2zQ==
 
-"@portabletext/react@3.0.18":
-  version "3.0.18"
-  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-3.0.18.tgz#cdc05c7663a6fc2b683920f75fdac1fd6e00ce33"
-  integrity sha512-AsWiZin7GpA8RTTl9kmR5wiMj72Ynotjjw0bBgbmL0vOYp0jc8nNslJyPPMSMngSLzLa8+rPAg47+d9KtrzLVw==
-  dependencies:
-    "@portabletext/toolkit" "^2.0.15"
-    "@portabletext/types" "^2.0.13"
-
-"@portabletext/react@^3.1.0":
+"@portabletext/react@3.1.0", "@portabletext/react@^3.1.0":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-3.1.0.tgz#95d08b67e74d380705726db6762321bf926796a6"
   integrity sha512-ZGHlvS+NvId9RSqnflN8xF2KVZgAgD399dK1GaycurnGNZGZYTd5nZmc8by1yL76Ar8n/dbVtouUDJIkO4Tupw==
