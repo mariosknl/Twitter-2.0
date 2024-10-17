@@ -174,13 +174,13 @@
   resolved "https://registry.yarnpkg.com/@portabletext/types/-/types-2.0.13.tgz#7a4bf6dac30713fbe1b4bc01dc572af0af72955d"
   integrity sha512-5xk5MSyQU9CrDho3Rsguj38jhijhD36Mk8S6mZo3huv6PM+t4M/5kJN2KFIxgvt4ONpvOEs1pVIZAV0cL0Vi+Q==
 
-"@sanity/client@^6.21.3":
-  version "6.21.3"
-  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-6.21.3.tgz#f08302843c46464cb964270441c544a9ab75af6d"
-  integrity sha512-oE2+4kKRTZhFCc4IIsojkzKF0jIhsSYSRxkPZjScZ1k/EQ3Y2tEcQYiKwvvotzaXoaWsIL3RTpulE+R4iBYiBw==
+"@sanity/client@^6.22.2":
+  version "6.22.2"
+  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-6.22.2.tgz#b07a410d5050474a85ca70ed1ba10b0d1f3e440d"
+  integrity sha512-GrLmwREcw4Us6kBaqoXyLVVl7xAELf/4Qzvv0nGxIIqCkDWQof6nL55ar6m1W9hF+eHKyRTkktWSkZ/+RklCuw==
   dependencies:
     "@sanity/eventsource" "^5.0.2"
-    get-it "^8.6.4"
+    get-it "^8.6.5"
     rxjs "^7.0.0"
 
 "@sanity/eventsource@^5.0.2":
@@ -203,10 +203,10 @@
   resolved "https://registry.yarnpkg.com/@sanity/preview-kit-compat/-/preview-kit-compat-1.5.7.tgz#6da02bec370f1dad9df0d8d2b63f658e5b9fbed2"
   integrity sha512-hOyt66yLD6RHcZfzFlqOdeU779OLXqWD31qQSeouwWLit0IhQhLKI7OMlnFKC238c/cG8GsWHI/sHbnGiaR5DQ==
 
-"@sanity/preview-kit@5.1.1":
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/@sanity/preview-kit/-/preview-kit-5.1.1.tgz#6d9dee6e7c872fd5703a2a829f073aafc983bf52"
-  integrity sha512-q5VdFlSzCpJT9lUCIAnjQ3/npBqebqn0vZvk2nbxQ4r97NcdkvEQ9/LmH194RNwBrtnDOVSv9nYfvn3eZCD7oQ==
+"@sanity/preview-kit@5.1.5":
+  version "5.1.5"
+  resolved "https://registry.yarnpkg.com/@sanity/preview-kit/-/preview-kit-5.1.5.tgz#9bcf5e0211f4948422fdb74e46346ca7b143f2c9"
+  integrity sha512-8nhF7cn8Kaw2Mc1EIevJaTQVQuw6e5anzp2sZob34a1VP75FPtHjPcpFPUmESoH6M5pGJrPHB+GsAZzdDedc8w==
   dependencies:
     "@sanity/preview-kit-compat" "1.5.7"
     mendoza "3.0.7"
@@ -535,7 +535,7 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-get-it@^8.6.4:
+get-it@^8.6.5:
   version "8.6.5"
   resolved "https://registry.yarnpkg.com/get-it/-/get-it-8.6.5.tgz#69c85fa215707315861a32733738b578d0f8e640"
   integrity sha512-o1hjPwrb/icm3WJbCweTSq8mKuDfJlqwbFauI+Pdgid99at/BFaBXFBJZE+uqvHyOVARE4z680S44vrDm8SsCw==
@@ -579,10 +579,10 @@ goober@^2.1.10:
   resolved "https://registry.yarnpkg.com/goober/-/goober-2.1.10.tgz#058def43ba1e3b06f973dbb372a4978aa42f1049"
   integrity sha512-7PpuQMH10jaTWm33sQgBQvz45pHR8N4l3Cu3WMGEWmHShAcTuuP7I+5/DwKo39fwti5A80WAjvqgz6SSlgWmGA==
 
-groq@^3.57.4:
-  version "3.57.4"
-  resolved "https://registry.yarnpkg.com/groq/-/groq-3.57.4.tgz#d3d3bad32b2dbceaaf3f02b01b1a777cac99bef3"
-  integrity sha512-ITafp0JhY+ta/Vh5WvfRjyo2rMMJ7uu/nz+qFpiX5B9AIcW+Qezx394zdEFiG1PWRJ90hav4fWYMynp6pjO9KA==
+groq@^3.61.0:
+  version "3.61.0"
+  resolved "https://registry.yarnpkg.com/groq/-/groq-3.61.0.tgz#5623d9a8ff4c8640596ac8ef75d8e8af7be03e40"
+  integrity sha512-WwtX7L8gaQ9WtMCR1168fIPF4dRKONg8zmWCyENgf5vALEre/Xez09eWA+U3jy5qa0BGFQNNpEb2R+CSOkpXcw==
 
 has@^1.0.3:
   version "1.0.3"
@@ -777,16 +777,16 @@ next-auth@4.24.8:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@9.5.0:
-  version "9.5.0"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-9.5.0.tgz#929e586ad1a25a5992e1c4b18c4fada6c2a6cba0"
-  integrity sha512-W1Uk3KxbaTdikO0xSZwPnYv7myy0FyozHaOd0fJyI1/N4L8ch+/mPYkWTjdKhPxfV3d6gfVgoMlrkaQui2Zrfw==
+next-sanity@9.5.5:
+  version "9.5.5"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-9.5.5.tgz#1e7fa716058a6118693e6eaa7da863f2f97cf2a1"
+  integrity sha512-IEXrnQshHXpsKHA9CgRgu8KyhOUYRKJGxMqIepr/P/gy/mdJpkY3w9NLN3ef6zaOteuHIhQT9irpGrBedTaXtQ==
   dependencies:
     "@portabletext/react" "^3.1.0"
-    "@sanity/client" "^6.21.3"
-    "@sanity/preview-kit" "5.1.1"
+    "@sanity/client" "^6.22.2"
+    "@sanity/preview-kit" "5.1.5"
     "@sanity/visual-editing" "2.1.10"
-    groq "^3.57.4"
+    groq "^3.61.0"
     history "^5.3.0"
 
 next@latest:
