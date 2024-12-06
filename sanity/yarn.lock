@@ -2938,6 +2938,11 @@
   resolved "https://registry.yarnpkg.com/@sanity/icons/-/icons-3.4.0.tgz#bf838d1a67382d75231be55b4e89346ffdfb5fe6"
   integrity sha512-X8BMM68w3y5cuCLpPwV7jGhVNGgAL/FA3UI6JaRCsyVOahA6aBOeKdjFs5MHtKi8cmrKwq1a98h/HbrK56kszA==
 
+"@sanity/icons@^3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@sanity/icons/-/icons-3.5.0.tgz#0adf3e06e396557e2072e959ee1cb0fc21e06e9f"
+  integrity sha512-OXZILmwd1lZybwO4RYSY3fr6Kn6MePWOjBJRWDiw5lu9W+DmYO87P82S8nD5y/toQvWr53eNQfRzob2PLo+ZOA==
+
 "@sanity/image-url@^1.0.1":
   version "1.0.1"
   resolved "https://registry.npmjs.org/@sanity/image-url/-/image-url-1.0.1.tgz#960d649b2f4396da0adb31cf94503c929495cea0"
@@ -3197,10 +3202,10 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.7"
 
-"@sanity/ui@^2.8.25":
-  version "2.8.25"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.8.25.tgz#1e3c0044264bf5db3c07b13e162db2ad18eecad2"
-  integrity sha512-DOelQQq5htbV9THZwcASdHAiA2wdPL/zuvrrurC8PPMGzMxHJqqMjdXLrd2zdckTgEjXcgn6rPEFZ/YY6v5CSQ==
+"@sanity/ui@^2.9.1":
+  version "2.9.1"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.9.1.tgz#f13675ff7e48fe1a59be1cd08dbe1074c1122d5c"
+  integrity sha512-FwPuMTOJHlVyinK12d+VO7c6Uu4xhEoIzZxdiJPriRRRgyUNCtUkKObQKt7AUPGfUqood2AE2zYWdqCRPwkcOA==
   dependencies:
     "@floating-ui/react-dom" "^2.1.2"
     "@sanity/color" "^3.0.6"
@@ -3251,10 +3256,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.65.1":
-  version "3.65.1"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.65.1.tgz#958bd5cecfe121ef4a333d1de8a486ddd41dbc2a"
-  integrity sha512-PXGYonX92cZffuMgI0Cgceq8HpTR+qgA2f5Xjrkz7ccLcdlylYjUQXvA1l5cKUQlOndqKPIdjCHrA56o6JpEvw==
+"@sanity/vision@3.66.1":
+  version "3.66.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.66.1.tgz#74c6c7e61a9b7aac2d059f75d0a7040b64c2efc4"
+  integrity sha512-aRImpdJl62Tv1lysaRE8JWzOV2BzMAaDL/es0Izyjbcf0oizUiCiPG1V3QKpjcCc50gPbenU+ZSvE7Og0lntcA==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
@@ -3268,8 +3273,8 @@
     "@rexxars/react-json-inspector" "^8.0.1"
     "@rexxars/react-split-pane" "^0.1.93"
     "@sanity/color" "^3.0.0"
-    "@sanity/icons" "^3.4.0"
-    "@sanity/ui" "^2.8.25"
+    "@sanity/icons" "^3.5.0"
+    "@sanity/ui" "^2.9.1"
     "@uiw/react-codemirror" "^4.11.4"
     is-hotkey-esm "^1.0.0"
     json-2-csv "^5.5.1"
