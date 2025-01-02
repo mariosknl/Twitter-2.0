@@ -290,17 +290,16 @@
     "@types/uuid" "^8.0.0"
     uuid "^8.0.0"
 
-"@sanity/visual-editing@2.11.2":
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-2.11.2.tgz#2629130247166a374ecbdf634e2f1d6e82c01814"
-  integrity sha512-sRPRKz9wgoTWapOLSojQq84xx3caHmDyte8HgjxzakuEl56dXKByUyX8CEuspV53UVaBtp0IAx+LkxZBCbuSbA==
+"@sanity/visual-editing@2.11.4":
+  version "2.11.4"
+  resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-2.11.4.tgz#a32f60a1c927a5371129ba785e6290c86a229eaf"
+  integrity sha512-KN3Q7rYgCtFuLUlKFqVzIek0epPpmPwhYN6MGfE2ZVNa4/i0qiHkiU2rAQeXpX+9B2aaCeWfr/OoWKSgyWlJ2A==
   dependencies:
     "@sanity/comlink" "2.0.3"
     "@sanity/mutate" "0.11.0-canary.4"
     "@sanity/preview-url-secret" "2.0.5"
     "@vercel/stega" "0.1.2"
     get-random-values-esm "^1.0.2"
-    react-compiler-runtime "19.0.0-beta-201e55d-20241215"
     rxjs "^7.8.1"
     scroll-into-view-if-needed "^3.1.0"
     use-effect-event "^1.0.2"
@@ -989,17 +988,17 @@ next-auth@4.24.11:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@9.8.30:
-  version "9.8.30"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-9.8.30.tgz#6fe1e1051a4595f7aea5f775755c5fa2ddb56698"
-  integrity sha512-dvuGK35fZQww9hvxT3xFTyc3Zb5+8jEaVCYdOy6P282wmq/fju4Nop314vOfq+cUkuM6n4w+dR6V4oaeyzHnwA==
+next-sanity@9.8.31:
+  version "9.8.31"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-9.8.31.tgz#0b64b7a28ad65b746120a97936936f86db6f8961"
+  integrity sha512-5eofJX/35Rz1RU6UV0vhr+oeLoO9nUMONdQ23SavR9/8XAUVM3TWovWjOaa4nrAwih/veSVXOw50XvlNI7nTfg==
   dependencies:
     "@portabletext/react" "^3.2.0"
     "@sanity/client" "^6.24.1"
     "@sanity/next-loader" "1.2.8"
     "@sanity/preview-kit" "5.1.26"
     "@sanity/preview-url-secret" "2.0.5"
-    "@sanity/visual-editing" "2.11.2"
+    "@sanity/visual-editing" "2.11.4"
     groq "^3.68.3"
     history "^5.3.0"
 
@@ -1240,11 +1239,6 @@ queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
-
-react-compiler-runtime@19.0.0-beta-201e55d-20241215:
-  version "19.0.0-beta-201e55d-20241215"
-  resolved "https://registry.yarnpkg.com/react-compiler-runtime/-/react-compiler-runtime-19.0.0-beta-201e55d-20241215.tgz#5e078f153879439e6e2c5c25193bccfb18612010"
-  integrity sha512-jBEo/UqVgiz6veJjhQMoNaGQLKUQwzMQpiYrA4XsGVOC2sElDF0oMjic5107LitP988yHrqDDZwZirS4OAEqyA==
 
 react-dom@19.0.0:
   version "19.0.0"
