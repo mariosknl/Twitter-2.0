@@ -12,14 +12,14 @@
     "next": "latest",
     "next-auth": "4.24.11",
     "next-sanity": "9.9.5",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
     "react-hot-toast": "2.5.2",
     "react-timeago": "8.0.0",
     "react-twitter-embed": "4.0.4"
   },
   "devDependencies": {
-    "@types/react": "19.0.10",
+    "@types/react": "19.1.2",
     "@types/node": "22.15.2",
     "@types/react-timeago": "4.1.7",
     "autoprefixer": "10.4.21",
