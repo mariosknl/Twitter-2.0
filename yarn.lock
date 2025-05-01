@@ -959,10 +959,10 @@ react-refractor@^2.2.0:
     unist-util-filter "^2.0.2"
     unist-util-visit-parents "^3.0.2"
 
-react-timeago@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/react-timeago/-/react-timeago-8.0.0.tgz#9a6ce075ffac0746fd6e27520ce936014129d767"
-  integrity sha512-I/Lsewkw87xryZVXU8mv8o2lsnxTd7uHBJF9fl76vRx/GkAFNctgSg9q0hOKvgv9V6cTXmDiuXJJYyblD4kGRA==
+react-timeago@8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/react-timeago/-/react-timeago-8.2.0.tgz#a6c9c81f1ed8565f87d297d012c467944a0176be"
+  integrity sha512-RWDlG3Jj+iwv+yNEDweA/Qk1mxE8i/Oc4oW8Irp29ZfBp+eNpqqYPMLPYQJyfRMJcGB8CmWkEGMYhB4fW8eZlQ==
 
 react-twitter-embed@4.0.4:
   version "4.0.4"
