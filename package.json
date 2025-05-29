@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/react": "19.1.2",
-    "@types/node": "22.15.3",
+    "@types/node": "22.15.24",
     "@types/react-timeago": "4.1.7",
     "autoprefixer": "10.4.21",
     "postcss": "8.5.3",
