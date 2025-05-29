@@ -2081,10 +2081,10 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.7"
 
-"@sanity/ui@^2.15.17":
-  version "2.15.17"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.15.17.tgz#8eb31ebc476df41bfc3195e26c39d4acdb1e95ee"
-  integrity sha512-imPxjioQJqPISepvB4f7qag4Izfs5boQ5KN8zeO3/t3IS2EUcfSVbJsAd7n5BEScIUsYEAIP72ibHI214PsiDw==
+"@sanity/ui@^2.15.18":
+  version "2.15.18"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-2.15.18.tgz#0d8f305624ded905ef423b27b772eae94e9f5af3"
+  integrity sha512-yN1FFMntHgRK86XTiZALA9Jr320yO1gpUplQZygqanP9DgZo3f8B/10wzIleIGaIyyOaYKCdo5oev2YYgOO+qQ==
   dependencies:
     "@floating-ui/react-dom" "^2.1.2"
     "@juggle/resize-observer" "^3.4.0"
@@ -2092,7 +2092,7 @@
     "@sanity/icons" "^3.7.0"
     csstype "^3.1.3"
     framer-motion "^12.9.7"
-    react-compiler-runtime "19.1.0-rc.1"
+    react-compiler-runtime "19.1.0-rc.2"
     react-refractor "^2.2.0"
     use-effect-event "^1.0.2"
 
@@ -2126,6 +2126,14 @@
     "@types/uuid" "^8.0.0"
     uuid "^8.0.0"
 
+"@sanity/uuid@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@sanity/uuid/-/uuid-3.0.2.tgz#e022c37f1d94df3cd876a823e9a83c1d55c99e05"
+  integrity sha512-vzdhqOrX7JGbMyK40KuIwwyXHm7GMLOGuYgn3xlC09e4ZVNofUO5mgezQqnRv0JAMthIRhofqs9f6ufUjMKOvw==
+  dependencies:
+    "@types/uuid" "^8.0.0"
+    uuid "^8.0.0"
+
 "@sanity/validation@2.36.2":
   version "2.36.2"
   resolved "https://registry.yarnpkg.com/@sanity/validation/-/validation-2.36.2.tgz#1fea14b414057cdd3bd93b4e061cb83787ca73bc"
@@ -2136,10 +2144,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@3.89.0":
-  version "3.89.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.89.0.tgz#7593b8e6b138c53d55e27ab0349d26009cbcf2bf"
-  integrity sha512-G2zxq0SktVMy/IsflTTUO7FzNu4ij6KudW49OfMNu2hLbUzHBYapkX9o4nrUMAyafo6Mni0y6lBEY/cIDWeKsQ==
+"@sanity/vision@3.90.0":
+  version "3.90.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-3.90.0.tgz#0a6cdd109d8fb8deed24fa1a27bfe2ebe4c54b11"
+  integrity sha512-wGprEoiFXcZVK/3qmagdSQC1JDYm2ELX1Wgd+onPQEspb+lbqCqFKphlptpWd9SEn0QtPeFS4je04dbAEUr3Ag==
   dependencies:
     "@codemirror/autocomplete" "^6.1.0"
     "@codemirror/commands" "^6.0.1"
@@ -2154,7 +2162,8 @@
     "@rexxars/react-split-pane" "^1.0.0"
     "@sanity/color" "^3.0.0"
     "@sanity/icons" "^3.7.0"
-    "@sanity/ui" "^2.15.17"
+    "@sanity/ui" "^2.15.18"
+    "@sanity/uuid" "^3.0.2"
     "@uiw/react-codemirror" "^4.23.8"
     is-hotkey-esm "^1.0.0"
     json-2-csv "^5.5.1"
@@ -2163,6 +2172,7 @@
     quick-lru "^5.1.1"
     react-compiler-runtime "19.1.0-rc.2"
     react-fast-compare "^3.2.2"
+    rxjs "^7.8.0"
     use-effect-event "^1.0.2"
 
 "@sanity/webpack-dev-middleware@^2.0.6":
@@ -9644,11 +9654,6 @@ react-clientside-effect@^1.2.6:
   dependencies:
     "@babel/runtime" "^7.12.13"
 
-react-compiler-runtime@19.1.0-rc.1:
-  version "19.1.0-rc.1"
-  resolved "https://registry.yarnpkg.com/react-compiler-runtime/-/react-compiler-runtime-19.1.0-rc.1.tgz#2535efd2e9fc9fc7d5ad47e970061dfbe38fb3f6"
-  integrity sha512-wCt6g+cRh8g32QT18/9blfQHywGjYu+4FlEc3CW1mx3pPxYzZZl1y+VtqxRgnKKBCFLIGUYxog4j4rs5YS86hw==
-
 react-compiler-runtime@19.1.0-rc.2:
   version "19.1.0-rc.2"
   resolved "https://registry.yarnpkg.com/react-compiler-runtime/-/react-compiler-runtime-19.1.0-rc.2.tgz#6fc2ab85bf76138f9458b5c2050728d34cb7740f"
@@ -10264,6 +10269,13 @@ rxjs@^6.0.0, rxjs@^6.4.0, rxjs@^6.5.3:
   integrity sha512-hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==
   dependencies:
     tslib "^1.9.0"
+
+rxjs@^7.8.0:
+  version "7.8.2"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.8.2.tgz#955bc473ed8af11a002a2be52071bf475638607b"
+  integrity sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA==
+  dependencies:
+    tslib "^2.1.0"
 
 safe-array-concat@^1.1.2:
   version "1.1.2"
