@@ -2214,10 +2214,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-4.0.0.tgz#71e9a89e8f51a7997ebd24f2de9747e4985cc97e"
-  integrity sha512-uuG0Q1ePgpLA/mMMu6QQaMfWUQGEC2IsRSJ4LYO9rT4xIFbywrvThvhJBRDoy7zE/Ekhl+PDQlU7tS5w27MRNA==
+"@sanity/vision@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-4.0.1.tgz#a7f178b5bd2ea3ec90d54809bfa6ac2224b1fe6f"
+  integrity sha512-mtMYUzBpXMHYKmJYJHPN1A/OP+Fkac5g5SI4xZRD8cu62kzB0WIAPtqEsGvpbtB6l9VZgDD4QeFzpWZFHqFqqg==
   dependencies:
     "@codemirror/autocomplete" "^6.18.6"
     "@codemirror/commands" "^6.8.1"
