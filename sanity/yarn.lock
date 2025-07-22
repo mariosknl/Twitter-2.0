@@ -2214,10 +2214,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-4.0.0.tgz#71e9a89e8f51a7997ebd24f2de9747e4985cc97e"
-  integrity sha512-uuG0Q1ePgpLA/mMMu6QQaMfWUQGEC2IsRSJ4LYO9rT4xIFbywrvThvhJBRDoy7zE/Ekhl+PDQlU7tS5w27MRNA==
+"@sanity/vision@4.1.1":
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-4.1.1.tgz#42e605482c3d6cd5d41cdb37a563c1a9d722e7bf"
+  integrity sha512-wAH/7yNZrZ8gBHb4Tpo1d/jCs3aexXGkRGvBP49rS16Hlzk7oR9uRbIwaOpcBRcFtIiOXAySlqDGVfh+7Qc9aQ==
   dependencies:
     "@codemirror/autocomplete" "^6.18.6"
     "@codemirror/commands" "^6.8.1"
@@ -2234,7 +2234,7 @@
     "@sanity/icons" "^3.7.4"
     "@sanity/ui" "^2.16.7"
     "@sanity/uuid" "^3.0.2"
-    "@uiw/react-codemirror" "^4.23.8"
+    "@uiw/react-codemirror" "^4.24.1"
     is-hotkey-esm "^1.0.0"
     json-2-csv "^5.5.1"
     json5 "^2.2.3"
@@ -2242,9 +2242,9 @@
     quick-lru "^5.1.1"
     react-compiler-runtime "19.1.0-rc.2"
     react-fast-compare "^3.2.2"
-    react-rx "^4.1.30"
-    rxjs "^7.8.0"
-    use-effect-event "^2.0.2"
+    react-rx "^4.1.31"
+    rxjs "^7.8.2"
+    use-effect-event "^2.0.3"
 
 "@sanity/webpack-dev-middleware@^2.0.6":
   version "2.0.6"
@@ -2483,10 +2483,10 @@
     "@typescript-eslint/types" "8.18.1"
     eslint-visitor-keys "^4.2.0"
 
-"@uiw/codemirror-extensions-basic-setup@4.23.11":
-  version "4.23.11"
-  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.23.11.tgz#80a1d287c2231c00b0bed595e65e1761b813f5d1"
-  integrity sha512-U31s5LEqEKFU4SPz1tldfrPohKddxC02z1kTnWe50k+K0CYK+PtISD5ufH/PVC0EgGL+c0TydTx72nRMwaeC4A==
+"@uiw/codemirror-extensions-basic-setup@4.24.1":
+  version "4.24.1"
+  resolved "https://registry.yarnpkg.com/@uiw/codemirror-extensions-basic-setup/-/codemirror-extensions-basic-setup-4.24.1.tgz#11b5e9362582bbb6456d365f2ad0b0e4a4b192ae"
+  integrity sha512-o1m1a8eUS3fWERMbDFvN8t8sZUFPgDKNemmlQ5Ot2vKm+Ax84lKP1dhEFgkiOaZ1bDHk4T5h6SjHuTghrJHKww==
   dependencies:
     "@codemirror/autocomplete" "^6.0.0"
     "@codemirror/commands" "^6.0.0"
@@ -2496,16 +2496,16 @@
     "@codemirror/state" "^6.0.0"
     "@codemirror/view" "^6.0.0"
 
-"@uiw/react-codemirror@^4.23.8":
-  version "4.23.11"
-  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.23.11.tgz#a0e5091ab5f7bc4514a1ccee53280468a169f470"
-  integrity sha512-oMUXl/yu/a8qKy7w7q769kH2TPlvPln6IpvkjXQX90ziD8GHRFLDz+Ij51D2RRwB3glrkPnhCN9YC+PDlnmhqA==
+"@uiw/react-codemirror@^4.24.1":
+  version "4.24.1"
+  resolved "https://registry.yarnpkg.com/@uiw/react-codemirror/-/react-codemirror-4.24.1.tgz#fefedd88f69d0f327faaac178191ea412ad82679"
+  integrity sha512-BivF4NLqbuBQK5gPVhSkOARi9nPXw8X5r25EnInPeY+I9l1dfEX8O9V6+0xHTlGHyUo0cNfGEF9t1KHEicUfJw==
   dependencies:
     "@babel/runtime" "^7.18.6"
     "@codemirror/commands" "^6.1.0"
     "@codemirror/state" "^6.1.1"
     "@codemirror/theme-one-dark" "^6.0.0"
-    "@uiw/codemirror-extensions-basic-setup" "4.23.11"
+    "@uiw/codemirror-extensions-basic-setup" "4.24.1"
     codemirror "^6.0.0"
 
 abab@^2.0.0:
@@ -9871,14 +9871,14 @@ react-rx@^1.0.0-beta.6:
   dependencies:
     observable-callback "^1.0.1"
 
-react-rx@^4.1.30:
-  version "4.1.30"
-  resolved "https://registry.yarnpkg.com/react-rx/-/react-rx-4.1.30.tgz#2bbf6fab2dc978b2f915a5a0d1e529583a87dab4"
-  integrity sha512-O5+9CDr+yYqmPNb0Ddc6/wdc4EGpfZnZaK4h5Kf6d6ruleVb++usLUW39PmZowUH2bYCF7QnW5Gl0vLNVIlT0A==
+react-rx@^4.1.31:
+  version "4.1.31"
+  resolved "https://registry.yarnpkg.com/react-rx/-/react-rx-4.1.31.tgz#a2cec51e0061802c637a2a25ea5cea08123458ef"
+  integrity sha512-wRdAh4yQ+hQkkcHRH4CC8RnyZWtTx76lhbqCEfrdXOvl65twRuTi6vmMQM/tQj7jguiPxiVN2hEJkjXsd6pstw==
   dependencies:
     observable-callback "^1.0.3"
     react-compiler-runtime "19.1.0-rc.2"
-    use-effect-event "^2.0.1"
+    use-effect-event "^2.0.3"
 
 react-sortable-hoc@^1.11.0:
   version "1.11.0"
@@ -10365,7 +10365,7 @@ rxjs@^6.0.0, rxjs@^6.4.0, rxjs@^6.5.3:
   dependencies:
     tslib "^1.9.0"
 
-rxjs@^7.8.0:
+rxjs@^7.8.2:
   version "7.8.2"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.8.2.tgz#955bc473ed8af11a002a2be52071bf475638607b"
   integrity sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA==
@@ -11840,15 +11840,15 @@ use-device-pixel-ratio@^1.1.0:
   resolved "https://registry.npmjs.org/use-device-pixel-ratio/-/use-device-pixel-ratio-1.1.0.tgz#3fb519fd8cb693adc6ceb534c888f82432346693"
   integrity sha512-1c8CNimTFp8V1prGF5yLJ1WA+WGCqXlONaeQaOS2QgV7pFbJlsSYcNaxlisRcUkjZHiPI8seSRK1wY73OziGqg==
 
-use-effect-event@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/use-effect-event/-/use-effect-event-2.0.1.tgz#903675dafede95cefa4373fbc5066218976c8c01"
-  integrity sha512-76rGQGL83WpjyqrYNsQXA9U7y68HNfeGecBz7q8jvEGXucnh0oUedjxHuOmwVucv8kzpHOYx6OlrLAuQ66fvbg==
-
 use-effect-event@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/use-effect-event/-/use-effect-event-2.0.2.tgz#75d983b5960cf2b8e967edfa266697db42ea55c6"
   integrity sha512-IGikKu2QMAjtBUc3basvXjYvAXvGAMTVmcz9S2cuuRDEGH142Ez4ctiOzhsw3HGNZoFSB2a+0c4OHpT1OTw3Og==
+
+use-effect-event@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/use-effect-event/-/use-effect-event-2.0.3.tgz#9e013702d37dc9f8930c7717d9cfdb3804b23240"
+  integrity sha512-fz1en+z3fYXCXx3nMB8hXDMuygBltifNKZq29zDx+xNJ+1vEs6oJlYd9sK31vxJ0YI534VUsHEBY0k2BATsmBQ==
 
 use-sidecar@^1.1.2:
   version "1.1.2"
