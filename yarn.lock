@@ -123,15 +123,7 @@
   resolved "https://registry.yarnpkg.com/@panva/hkdf/-/hkdf-1.0.4.tgz#4e02bb248402ff6c5c024e23a68438e2b0e69d67"
   integrity sha512-003xWiCuvePbLaPHT+CRuaV4GlyCAVm6XYSbBZDHoWZGn1mNkVKFaDbGJjjxmEFvizUwlCoM6O18FCBMMky2zQ==
 
-"@portabletext/react@3.2.4":
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-3.2.4.tgz#38d4892a7b031fbd16fd2d476737375aefb3e381"
-  integrity sha512-Gq0BaIBw6PMXnN1M9clG7vOa952O4F+CTfANLH/NaxiH5eI1sOx3IoGoGLnPPUTxCKq3F380gz4ycz6WzMtu0Q==
-  dependencies:
-    "@portabletext/toolkit" "^2.0.18"
-    "@portabletext/types" "^2.0.15"
-
-"@portabletext/react@^4.0.3":
+"@portabletext/react@4.0.3", "@portabletext/react@^4.0.3":
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-4.0.3.tgz#eee5f24f35746e46e0f9d532c875fe5ecc68c201"
   integrity sha512-sdVSXbi0L5MBVb1Ch5KwbBPZjW/Oqe6s5ZkPi4LcItzHl8rqY2jB0VxsFaGywZyn8Jc47cGLaOtyBM9HkW/9Hg==
@@ -139,24 +131,12 @@
     "@portabletext/toolkit" "^3.0.1"
     "@portabletext/types" "^2.0.15"
 
-"@portabletext/toolkit@^2.0.18":
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/@portabletext/toolkit/-/toolkit-2.0.18.tgz#71a5563a6d7fe5321299dfaaf9db61f4892231ba"
-  integrity sha512-m3v2WwKQTNNk5BFZlUuPuCW0Zi6iDSpwrium4Ej5L2FHDXhFuwAyEMPXDrvwPvqjES/oJzcwmdKLMhYa44T9BQ==
-  dependencies:
-    "@portabletext/types" "^2.0.13"
-
 "@portabletext/toolkit@^3.0.1":
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/@portabletext/toolkit/-/toolkit-3.0.1.tgz#67b3252a0d7191b72614282eaf45b7106fda771a"
   integrity sha512-z8NGqxKxfP0zuC58hPe8+xFC17qSbQ3nC9DgZmhrr7NUFaENJ6vAHJBsH5QzT7nKUjj++dTn+i4O2Uz9cqiGjA==
   dependencies:
     "@portabletext/types" "^2.0.15"
-
-"@portabletext/types@^2.0.13":
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/@portabletext/types/-/types-2.0.13.tgz#7a4bf6dac30713fbe1b4bc01dc572af0af72955d"
-  integrity sha512-5xk5MSyQU9CrDho3Rsguj38jhijhD36Mk8S6mZo3huv6PM+t4M/5kJN2KFIxgvt4ONpvOEs1pVIZAV0cL0Vi+Q==
 
 "@portabletext/types@^2.0.15":
   version "2.0.15"
