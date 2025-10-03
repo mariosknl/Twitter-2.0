@@ -367,26 +367,12 @@
   dependencies:
     "@types/node" "*"
 
-"@types/prop-types@*":
-  version "15.7.5"
-  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
-  integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
-
-"@types/react-timeago@4.1.7":
-  version "4.1.7"
-  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-4.1.7.tgz#0c589e329180ce2cbfba1fd54904613152d841b7"
-  integrity sha512-ogD4Ror/hDG+pQggCX+TgPgJ8W2jeeUxsgNU485Qpm0Ma+E2TND2EJuKwK5+sxlkDXDEgsHradO0zWBkTgLzNg==
+"@types/react-timeago@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-timeago/-/react-timeago-8.0.0.tgz#10c2cad24202dd6e6aaaf23b19234928f12a2daa"
+  integrity sha512-omC9GxqKOdEiHLlqWU6NrDUF+qD7DHIZ9K5Wxw/XPrm22rfP/jgZrW8c27u23ON5LMWM/nIlUf0FUh+/DlftlQ==
   dependencies:
-    "@types/react" "*"
-
-"@types/react@*":
-  version "18.0.9"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.9.tgz#d6712a38bd6cd83469603e7359511126f122e878"
-  integrity sha512-9bjbg1hJHUm4De19L1cHiW0Jvx3geel6Qczhjd0qY5VKVE2X5+x77YxAepuCwVh4vrgZJdgEJw48zrhRIeF4Nw==
-  dependencies:
-    "@types/prop-types" "*"
-    "@types/scheduler" "*"
-    csstype "^3.0.2"
+    react-timeago "*"
 
 "@types/react@19.1.12":
   version "19.1.12"
@@ -394,11 +380,6 @@
   integrity sha512-cMoR+FoAf/Jyq6+Df2/Z41jISvGZZ2eTlnsaJRptmZ76Caldwy1odD4xTr/gNV9VLj0AWgg/nmkevIyUfIIq5w==
   dependencies:
     csstype "^3.0.2"
-
-"@types/scheduler@*":
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
-  integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
 "@types/unist@*", "@types/unist@^3.0.0":
   version "3.0.3"
@@ -972,7 +953,7 @@ react-refractor@^4.0.0:
     unist-util-filter "^5.0.1"
     unist-util-visit-parents "^6.0.1"
 
-react-timeago@8.3.0:
+react-timeago@*, react-timeago@8.3.0:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/react-timeago/-/react-timeago-8.3.0.tgz#117ebd37032df0cbfbfdb27136bb6e22f72348b3"
   integrity sha512-BeR0hj/5qqTc2+zxzBSQZMky6MmqwOtKseU3CSmcjKR5uXerej2QY34v2d+cdz11PoeVfAdWLX+qjM/UdZkUUg==
