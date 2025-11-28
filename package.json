@@ -8,7 +8,7 @@
   "dependencies": {
     "@portabletext/react": "4.0.3",
     "@heroicons/react": "2.2.0",
-    "@sanity/image-url": "1.2.0",
+    "@sanity/image-url": "2.0.1",
     "next": "latest",
     "next-auth": "4.24.13",
     "next-sanity": "11.6.4",
