@@ -11,7 +11,7 @@
     "@sanity/image-url": "2.0.2",
     "next": "latest",
     "next-auth": "4.24.13",
-    "next-sanity": "11.6.10",
+    "next-sanity": "11.6.12",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-hot-toast": "2.6.0",
