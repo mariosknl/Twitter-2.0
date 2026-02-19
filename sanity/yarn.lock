@@ -2420,10 +2420,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@5.8.1":
-  version "5.8.1"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.8.1.tgz#4734cc6bf8b7c0f42ac3b4c38ac16cb64a374571"
-  integrity sha512-Wnv8U+jgqYHo5s1ABiQECA1P0ICPVYQpiy9P+n3gR46lIbfQOqFCgC4/uJLPXfZg6BOasydttAI+AMc43v3ASQ==
+"@sanity/vision@5.11.0":
+  version "5.11.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.11.0.tgz#ecd1a989ba757cf06231a8848eb9f14bc0fcf46e"
+  integrity sha512-Jhgzdt0RmKpnVn/3RbHjJObXBQvDIXGzRhQRGVosQVoif+q8nKXtR2eM88GBnLEVObhK9y4VR43CnbrBYikGug==
   dependencies:
     "@codemirror/autocomplete" "^6.20.0"
     "@codemirror/commands" "^6.10.1"
