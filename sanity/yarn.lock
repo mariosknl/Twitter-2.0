@@ -2420,10 +2420,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@5.8.1":
-  version "5.8.1"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.8.1.tgz#4734cc6bf8b7c0f42ac3b4c38ac16cb64a374571"
-  integrity sha512-Wnv8U+jgqYHo5s1ABiQECA1P0ICPVYQpiy9P+n3gR46lIbfQOqFCgC4/uJLPXfZg6BOasydttAI+AMc43v3ASQ==
+"@sanity/vision@5.12.0":
+  version "5.12.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.12.0.tgz#820f317af9ade326b8d608d1620b1e5424afc068"
+  integrity sha512-NhJj4kaqGcGdg4UPW6ZXwG8dZKCVIdcn9EE3e6i9zonoEPOcRvOv5Bbe+taA84sC1GBDwdxp32lbrK80jyvmKQ==
   dependencies:
     "@codemirror/autocomplete" "^6.20.0"
     "@codemirror/commands" "^6.10.1"
@@ -2432,7 +2432,6 @@
     "@codemirror/search" "^6.6.0"
     "@codemirror/state" "^6.5.4"
     "@codemirror/view" "^6.39.11"
-    "@juggle/resize-observer" "^3.4.0"
     "@lezer/highlight" "^1.2.3"
     "@rexxars/react-json-inspector" "^9.0.1"
     "@rexxars/react-split-pane" "^1.0.0"
