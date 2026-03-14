@@ -2345,10 +2345,10 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.7"
 
-"@sanity/ui@^3.1.11":
-  version "3.1.11"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-3.1.11.tgz#4930bb0934b18f7e5744fe5a2912c4e77af8ee32"
-  integrity sha512-UooG4hq0ytUivCe0d5O+QWnG+B6fpuu5npNZNpV9SJNwZNH4hDNbLjnDS8sqEkaYVNhgIS+C26nnkVK134Di4w==
+"@sanity/ui@^3.1.13":
+  version "3.1.13"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-3.1.13.tgz#388ad6afa20049b8ffb3c7559879842a0515bc31"
+  integrity sha512-ImZ0sEMUQdKGSsz6d7vN7JwZEk+dPN7qGkcaRvh9EjkhX40uWgdjigGrNHMM8Liamy1rVclpfub4MC7J2Jvuxg==
   dependencies:
     "@floating-ui/react-dom" "^2.1.6"
     "@juggle/resize-observer" "^3.4.0"
@@ -2408,10 +2408,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.12.0.tgz#820f317af9ade326b8d608d1620b1e5424afc068"
-  integrity sha512-NhJj4kaqGcGdg4UPW6ZXwG8dZKCVIdcn9EE3e6i9zonoEPOcRvOv5Bbe+taA84sC1GBDwdxp32lbrK80jyvmKQ==
+"@sanity/vision@5.16.0":
+  version "5.16.0"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-5.16.0.tgz#aa32a05e1da94dbc91a3820f04b7893cd9e28977"
+  integrity sha512-FndW8BEEkMWlwydHO8632hA1kSu+JnHslO8zJWaD4UyzTiI8blSpccYKop9Pe8Ni4Q+2JddPo8IVn9yeO9UmfA==
   dependencies:
     "@codemirror/autocomplete" "^6.20.0"
     "@codemirror/commands" "^6.10.1"
@@ -2425,7 +2425,7 @@
     "@rexxars/react-split-pane" "^1.0.0"
     "@sanity/color" "^3.0.6"
     "@sanity/icons" "^3.7.4"
-    "@sanity/ui" "^3.1.11"
+    "@sanity/ui" "^3.1.13"
     "@sanity/uuid" "^3.0.2"
     "@uiw/react-codemirror" "^4.25.4"
     is-hotkey-esm "^1.0.0"
@@ -2433,7 +2433,6 @@
     json5 "^2.2.3"
     lodash-es "^4.17.22"
     quick-lru "^5.1.1"
-    react-fast-compare "^3.2.2"
     react-rx "^4.2.2"
     rxjs "^7.8.2"
 
@@ -10388,11 +10387,6 @@ react-fast-compare@^3.0.1, react-fast-compare@^3.2.0:
   version "3.2.0"
   resolved "https://registry.npmjs.org/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
   integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
-
-react-fast-compare@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.2.tgz#929a97a532304ce9fee4bcae44234f1ce2c21d49"
-  integrity sha512-nsO+KSNgo1SbJqJEYRE9ERzo7YtYbou/OqjSQKxV7jcKox7+usiUVZOAC+XnDOABXggQTno0Y1CpVnuWEc1boQ==
 
 react-focus-lock@^2.5.0:
   version "2.9.1"
