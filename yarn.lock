@@ -302,7 +302,7 @@
   resolved "https://registry.yarnpkg.com/@sanity/visual-editing-types/-/visual-editing-types-2.0.5.tgz#400833368a732186ee655d529945ced54261a757"
   integrity sha512-nNlptEGaZ64JI2sJBgJk+uAKhojAOeur41JYNTYbCIVJ/gY0Ix9AK/euBCN+aIm0ldgPU7J/h9ju9T36jJWwQQ==
 
-"@sanity/visual-editing@^5.3.1":
+"@sanity/visual-editing@^5.3.3":
   version "5.3.3"
   resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-5.3.3.tgz#758b0d9044cb433d722d140fc31458a364877bf4"
   integrity sha512-J8ABr0MhPEdYv5tMBLaijE2Wr3b7/RIXJOx9Hs+scXIsBOeklGF7bLJQbi18hnmNfTCJtZd7RoHap4rwPydLWg==
@@ -715,17 +715,17 @@ next-auth@4.24.13:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@12.1.6:
-  version "12.1.6"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-12.1.6.tgz#7a8f515c8f053db406934efa90fd3b0189613701"
-  integrity sha512-H9JcXA3D6lLD+Hlnu1D11FHsB1TY/xg5HxV8bGaR57jtyUR2YqEnasctE2Xle7/9OSZsULaQvZenpw1NKCZ9dA==
+next-sanity@12.2.1:
+  version "12.2.1"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-12.2.1.tgz#24f285279125d90416d4cad0942a9a3468aa9fdf"
+  integrity sha512-hq22hrevXSfYZIOj6LeyrxY28LRp9X8ERr3049M4Eya8YZUDrXHnKXnF50nvOCoqm6/dF2gl6fMP2Ouy6HNolA==
   dependencies:
     "@portabletext/react" "^6.0.3"
     "@sanity/client" "^7.20.0"
     "@sanity/comlink" "^4.0.1"
     "@sanity/presentation-comlink" "^2.0.1"
     "@sanity/preview-url-secret" "^4.0.4"
-    "@sanity/visual-editing" "^5.3.1"
+    "@sanity/visual-editing" "^5.3.3"
     "@sanity/webhook" "^4.0.4"
     dequal "^2.0.3"
     groq "^5.18.0"
