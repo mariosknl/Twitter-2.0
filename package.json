@@ -12,8 +12,8 @@
     "next": "latest",
     "next-auth": "4.24.14",
     "next-sanity": "12.3.0",
-    "react": "19.2.4",
-    "react-dom": "19.2.4",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
     "react-hot-toast": "2.6.0",
     "react-timeago": "8.3.0",
     "react-twitter-embed": "4.0.4"
