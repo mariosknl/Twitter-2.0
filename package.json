@@ -22,7 +22,7 @@
     "@types/react": "19.2.14",
     "@types/node": "24.12.2",
     "@types/react-timeago": "8.0.0",
-    "postcss": "8.5.8",
+    "postcss": "8.5.10",
     "autoprefixer": "10.4.27",
     "prettier": "3.8.1",
     "prettier-plugin-tailwindcss": "0.7.2",
