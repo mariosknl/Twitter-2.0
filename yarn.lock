@@ -153,10 +153,10 @@
   resolved "https://registry.yarnpkg.com/@portabletext/types/-/types-4.0.2.tgz#a4665eb8ac56ec216e93b7aed867840813c083de"
   integrity sha512-djfIGU9n6DRrunlvj2nIDAp17URo/nA4jSXGvf+Gupx8NLLy9fmJBZ3GL8yhqn9lSVc+cKCharjOa3aOBnWbRw==
 
-"@sanity/client@^7.21.0":
-  version "7.21.0"
-  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-7.21.0.tgz#0f9819558d27c56f1466559f06fbfe70cf3bbc39"
-  integrity sha512-j3SdOGy9ggQSj9LtlrV8x4jaZgJmyYKNB5cXpXWkMLgi2/v0U+OTu0mHj17smioTdQSCHuVyJaxGcdpu3hxoOA==
+"@sanity/client@^7.22.0":
+  version "7.22.0"
+  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-7.22.0.tgz#f2d72c1660e7aedbe2de1ed93e7b36b946b21e13"
+  integrity sha512-KqN9cowZwfZNCwCchRaz1B9WrZTThQxX/gfJhJO1uKJBuk/JcbYGBiSK9CSqocWoYDQ/QqANVXy1r7a8zognww==
   dependencies:
     "@sanity/eventsource" "^5.0.2"
     get-it "^8.7.2"
@@ -302,7 +302,7 @@
   resolved "https://registry.yarnpkg.com/@sanity/visual-editing-types/-/visual-editing-types-2.0.6.tgz#19e05ccf3128da98e6a383bffc135ddf7e674222"
   integrity sha512-NzsrFATzSCR2SbyjUmOLdiSWNTgsvQeZZ6vhGoZtSs1O9m16gylHSxeKiw6tSDiKJRtyPt+dfrrC5GbbqzYzgA==
 
-"@sanity/visual-editing@^5.3.3":
+"@sanity/visual-editing@^5.3.4":
   version "5.3.4"
   resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-5.3.4.tgz#bee08120271cf430829bc9b300e6d0dfe7959e31"
   integrity sha512-pdbx9f3C8x9BVnjb4EfLtK5v/LMTV6VlAT/m1o7k81vlocsyzbGhTwoyjoILy5t2TF9uLVfBXqCtFIKNA53sew==
@@ -565,10 +565,10 @@ goober@^2.1.16:
   resolved "https://registry.yarnpkg.com/goober/-/goober-2.1.16.tgz#7d548eb9b83ff0988d102be71f271ca8f9c82a95"
   integrity sha512-erjk19y1U33+XAMe1VTvIONHYoSqE4iS7BYUZfHaqeohLmnC0FdxEh7rQU+6MZ4OajItzjZFSRtVANrQwNq6/g==
 
-groq@^5.20.0:
-  version "5.21.0"
-  resolved "https://registry.yarnpkg.com/groq/-/groq-5.21.0.tgz#e926d670b1c6ef27e3071840652ad2510fd191bc"
-  integrity sha512-ETjVUltz/B0/Cxjz5NfaseZINrI2Kra8abCy/tLrBAaqbGtmgI0JymoS3ftiR6/AzNhtREy7vKxwzThEDk24QA==
+groq@^5.22.0:
+  version "5.22.0"
+  resolved "https://registry.yarnpkg.com/groq/-/groq-5.22.0.tgz#95fc90f724b4cd6d4bd7c16b104c947e3ce9a61f"
+  integrity sha512-mADJIWgW9z5Alg1n2hL6nPIyo8HqbOiBTJ9Mz34JD3VCNLpQX0k8pXPV0cEJF6ep9aV2rGk+j5+h3HoIq14ruA==
 
 hast-util-parse-selector@^4.0.0:
   version "4.0.0"
@@ -720,20 +720,20 @@ next-auth@4.24.14:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-sanity@12.3.0:
-  version "12.3.0"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-12.3.0.tgz#9924428eaefa4e7c39b91ee1eeaca6aa578867a9"
-  integrity sha512-sL13/ugOQGcOwDk35kS65g6gaI45FiHAsKMvtJn33E5XCbvAXbmi44vhzSoG1SpcuCUtGKos58Ru8nydm69wfw==
+next-sanity@12.3.1:
+  version "12.3.1"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-12.3.1.tgz#143cc4bd269c90ec01ddf620e721b54d325b9cd5"
+  integrity sha512-7crFndsx0rcqV8hmJQZPAR7SuFySztdhyqYVb9JKtSKvDi8btjtVaV+jDIK43zVEkcKF7ub7wY6NwVnaE3VQUw==
   dependencies:
     "@portabletext/react" "^6.0.3"
-    "@sanity/client" "^7.21.0"
+    "@sanity/client" "^7.22.0"
     "@sanity/comlink" "^4.0.1"
     "@sanity/presentation-comlink" "^2.0.1"
     "@sanity/preview-url-secret" "^4.0.5"
-    "@sanity/visual-editing" "^5.3.3"
+    "@sanity/visual-editing" "^5.3.4"
     "@sanity/webhook" "^4.0.4"
     dequal "^2.0.3"
-    groq "^5.20.0"
+    groq "^5.22.0"
     history "^5.3.0"
     server-only "^0.0.1"
 
