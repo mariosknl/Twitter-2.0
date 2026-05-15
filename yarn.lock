@@ -133,15 +133,7 @@
   resolved "https://registry.yarnpkg.com/@panva/hkdf/-/hkdf-1.0.4.tgz#4e02bb248402ff6c5c024e23a68438e2b0e69d67"
   integrity sha512-003xWiCuvePbLaPHT+CRuaV4GlyCAVm6XYSbBZDHoWZGn1mNkVKFaDbGJjjxmEFvizUwlCoM6O18FCBMMky2zQ==
 
-"@portabletext/react@6.0.3":
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-6.0.3.tgz#749889f5a933cb53b08822dd635c6ad488f16d1b"
-  integrity sha512-xkpykEYKdyR8DJq1oTGKhmwQMqIta8OEHAEMq1EQ5kGOdnVU4ZzU6c+1EZNgyNFpSZs/25ee3kA4Te9ybbQCyA==
-  dependencies:
-    "@portabletext/toolkit" "^5.0.2"
-    "@portabletext/types" "^4.0.2"
-
-"@portabletext/react@^6.2.0":
+"@portabletext/react@6.2.0", "@portabletext/react@^6.2.0":
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-6.2.0.tgz#8e90d54fef244efcf41af5c64fe9eedccec7b40d"
   integrity sha512-Z0J/AWrvg7GyDfEBQRRhi6ZpxLOsN4/QbU8KhTwfa6r2ELiRaMa4gkHE9wfs3V1ozNDrTG4IRr+8yBnHNDnAqA==
