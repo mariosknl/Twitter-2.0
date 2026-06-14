@@ -21,7 +21,7 @@
     "@sanity/desk-tool": "2.36.2",
     "@sanity/eslint-config-studio": "6.0.0",
     "eslint": "10.5.0",
-    "@sanity/vision": "5.31.1",
+    "@sanity/vision": "6.0.0",
     "prop-types": "15.8.1",
     "react": "19.2.7",
     "react-dom": "19.2.7",
