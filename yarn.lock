@@ -267,7 +267,7 @@
     "@sanity/visual-editing-types" "^2.0.13"
     xstate "^5.32.5"
 
-"@sanity/preview-url-secret@^4.1.2", "@sanity/preview-url-secret@^4.1.4":
+"@sanity/preview-url-secret@^4.1.4":
   version "4.1.4"
   resolved "https://registry.yarnpkg.com/@sanity/preview-url-secret/-/preview-url-secret-4.1.4.tgz#0827bd8e2bd27d8b42c78feb220c2fd1dd09974e"
   integrity sha512-FZvWDDUd9ezeKHXnNeDitjJUUrOft+SKGLstNPYo5jtsxaTyFQCmXOlD0HVGNON+FnlJ3BKaw7UyncPJPJ8hhQ==
@@ -282,7 +282,7 @@
     "@noble/ed25519" "^3.0.0"
     "@noble/hashes" "^2.0.0"
 
-"@sanity/types@^6.9.1":
+"@sanity/types@^6.9.2":
   version "6.9.2"
   resolved "https://registry.yarnpkg.com/@sanity/types/-/types-6.9.2.tgz#1e7e66dfa057ff0a78debcd81faceae056c34536"
   integrity sha512-AKITu+phxMU4iSOr1Kv6F3cTaKzOe8QEjXrMOSo+9sec4fz8AkxnDjZlGGuYTD6uyYPwICnjr98CYfxc4Z0OfA==
@@ -290,16 +290,16 @@
     "@sanity/client" "^7.26.2"
     "@sanity/media-library-types" "^1.6.0"
 
-"@sanity/ui@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-4.0.1.tgz#02ea127f1f109bf7dd49e561ab473d21fca8fa6b"
-  integrity sha512-OjsUCrI75fqhRHFljHUVQbddaDfVj3z1IJhbNImeZFguYyWEUTtf5N4j7S1mR9B9rbeZ0mx9QRyVg8YfriIaRA==
+"@sanity/ui@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-4.0.3.tgz#c1277ecb31ca4764ad039595ef6cb5776d040b64"
+  integrity sha512-IXZ01joAs1YDKhzcvW5+F+3hL5BsDLH3HB7WqpBqfTitQ0jmvyXr8quHQnsP8br3JyxEREmTEAIJhS8ABEXPXw==
   dependencies:
     "@floating-ui/react-dom" "^2.1.9"
     "@sanity/color" "^3.0.8"
     "@sanity/icons" "^5.2.1"
     csstype "^3.2.3"
-    motion "^13.0.0"
+    motion "^13.1.0"
     react-is "^19.2.8"
     react-refractor "^4.0.0"
     use-effect-event "^2.0.3"
@@ -332,18 +332,18 @@
   resolved "https://registry.yarnpkg.com/@sanity/visual-editing-types/-/visual-editing-types-2.0.14.tgz#7ecce4e8c6ba36e5b4099f0c2f9e350b25bbfe6f"
   integrity sha512-MyAGQw1kb1N5B0pycgFlZdIpuYB33L1AKLecX1EPD9LxiTUE9Q6WbEzowTfdrxLoW8J7uRxOUHAma7w8q46dyA==
 
-"@sanity/visual-editing@^6.0.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-6.0.1.tgz#60ad4d20ddd309806140cdc04750804946f65fcb"
-  integrity sha512-Aw3ui8/3by/cxUhIkUMPBEE0EE6KJwQFpsKxrA5tpbX09Q6slhzj0/BQR13nqlLbZVK2iwG+ikdn1Grree8Mww==
+"@sanity/visual-editing@^6.0.4":
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/@sanity/visual-editing/-/visual-editing-6.0.4.tgz#48d3682f411d1b59597fdf83ea54c9b608abc557"
+  integrity sha512-xtuQmWPDnFu4xEMaiyJvZ/GUBMppOmCMddF/y+uZWWcbBl56laAlxo1WYoj4DNQCQHqfhFFbwblVPdjnOu1eTQ==
   dependencies:
     "@sanity/comlink" "^4.0.3"
     "@sanity/icons" "^5.2.1"
     "@sanity/mutate" "^0.18.1"
     "@sanity/presentation-comlink" "^2.2.3"
     "@sanity/preview-url-secret" "^4.1.4"
-    "@sanity/types" "^6.9.1"
-    "@sanity/ui" "^4.0.1"
+    "@sanity/types" "^6.9.2"
+    "@sanity/ui" "^4.0.3"
     "@sanity/visual-editing-csm" "^3.0.15"
     "@vercel/stega" "^1.1.0"
     dequal "^2.0.3"
@@ -793,7 +793,7 @@ motion-utils@^13.0.0:
   resolved "https://registry.yarnpkg.com/motion-utils/-/motion-utils-13.0.0.tgz#b2e4dbe21e5488032592f0b0d4e0b7b776466dfa"
   integrity sha512-7DnN7TmbLcYXcG4RVadXIihWlyuM9afoUww8Y5Agg431kGKiuL2/OMyP4mJ5wLz+pvN3t5ySClLOaVXJ+wekRQ==
 
-motion@^13.0.0:
+motion@^13.1.0:
   version "13.1.0"
   resolved "https://registry.yarnpkg.com/motion/-/motion-13.1.0.tgz#497ec9deb07babb69f9d22714483e2d71a4d7f2e"
   integrity sha512-qtvscq59uCPdWnNW4SdSkrxR+BS/QYsa923bx7ocA+4p+ZGNbbVQwkSnG4aukB81QWjtl3AxX36plxNyZLmHCA==
@@ -836,16 +836,16 @@ next-auth@4.24.15:
     preact-render-to-string "^5.1.19"
     uuid "^11.1.1"
 
-next-sanity@13.3.2:
-  version "13.3.2"
-  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-13.3.2.tgz#44d2e5385858cf5733fd5cc0d9457dcc3483d60a"
-  integrity sha512-Q4v0wW0L/QsZnoXqrxe8DVWuPdmq3NeEZIjxy0gt0iFsYSghzEfE/l7gXkZeAiiTDL3tAk5f31C/x35A/Sx8jA==
+next-sanity@13.3.3:
+  version "13.3.3"
+  resolved "https://registry.yarnpkg.com/next-sanity/-/next-sanity-13.3.3.tgz#e304f04be972dca1c00c6b40b5029cdedf0871d3"
+  integrity sha512-rz6rsUN8oxmDURumaB5gkSCU9WL/hU6ufoodglo2031gPtGuftwhD/xY5cPWCvnbNS3Y4F61ej8HXIZm4vsJIw==
   dependencies:
     "@portabletext/react" "^7.0.1"
     "@sanity/client" "^7.26.2"
     "@sanity/generate-help-url" "^4.0.0"
-    "@sanity/preview-url-secret" "^4.1.2"
-    "@sanity/visual-editing" "^6.0.1"
+    "@sanity/preview-url-secret" "^4.1.4"
+    "@sanity/visual-editing" "^6.0.4"
     "@sanity/webhook" "^4.0.4"
     groq "^6.9.2"
     history "^5.3.0"
