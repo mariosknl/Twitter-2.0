@@ -2380,16 +2380,16 @@
     react-popper "^2.2.5"
     react-refractor "^2.1.7"
 
-"@sanity/ui@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-4.0.1.tgz#02ea127f1f109bf7dd49e561ab473d21fca8fa6b"
-  integrity sha512-OjsUCrI75fqhRHFljHUVQbddaDfVj3z1IJhbNImeZFguYyWEUTtf5N4j7S1mR9B9rbeZ0mx9QRyVg8YfriIaRA==
+"@sanity/ui@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-4.0.3.tgz#c1277ecb31ca4764ad039595ef6cb5776d040b64"
+  integrity sha512-IXZ01joAs1YDKhzcvW5+F+3hL5BsDLH3HB7WqpBqfTitQ0jmvyXr8quHQnsP8br3JyxEREmTEAIJhS8ABEXPXw==
   dependencies:
     "@floating-ui/react-dom" "^2.1.9"
     "@sanity/color" "^3.0.8"
     "@sanity/icons" "^5.2.1"
     csstype "^3.2.3"
-    motion "^13.0.0"
+    motion "^13.1.0"
     react-is "^19.2.8"
     react-refractor "^4.0.0"
     use-effect-event "^2.0.3"
@@ -2441,10 +2441,10 @@
     lodash "^4.17.15"
     rxjs "^6.5.3"
 
-"@sanity/vision@6.9.2":
-  version "6.9.2"
-  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-6.9.2.tgz#1d5c7d5d83b9b6ce020b4087775e8ac2b19d2f44"
-  integrity sha512-FRZgUXPmiEAVu1t8dAVgplVeOE69DsaQGDG1MnhSW8K9VSERUS91bEIv2acycSzBuEur2JzM/nc0h/OZDFr/QA==
+"@sanity/vision@6.10.1":
+  version "6.10.1"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-6.10.1.tgz#95bd8a36948a9184eb93c5ea6678ab16d6238b19"
+  integrity sha512-Z3t+/djEnlOnRI3Pn/MRqcFF1XBWCqd2py5ybHCHY6djox9dm12gVSo21mXeZvL1vclNLJMgcxnsAd90hnHE0Q==
   dependencies:
     "@codemirror/autocomplete" "^6.20.3"
     "@codemirror/commands" "^6.10.4"
@@ -2460,7 +2460,7 @@
     "@sanity/color" "^3.0.8"
     "@sanity/icons" "^5.2.1"
     "@sanity/lezer-groq" "^1.0.4"
-    "@sanity/ui" "^4.0.1"
+    "@sanity/ui" "^4.0.3"
     "@sanity/uuid" "^3.0.3"
     "@uiw/react-codemirror" "^4.25.11"
     "@vanilla-extract/dynamic" "^2.1.5"
@@ -8655,7 +8655,7 @@ motion-utils@^13.0.0:
   resolved "https://registry.yarnpkg.com/motion-utils/-/motion-utils-13.0.0.tgz#b2e4dbe21e5488032592f0b0d4e0b7b776466dfa"
   integrity sha512-7DnN7TmbLcYXcG4RVadXIihWlyuM9afoUww8Y5Agg431kGKiuL2/OMyP4mJ5wLz+pvN3t5ySClLOaVXJ+wekRQ==
 
-motion@^13.0.0:
+motion@^13.1.0:
   version "13.1.0"
   resolved "https://registry.yarnpkg.com/motion/-/motion-13.1.0.tgz#497ec9deb07babb69f9d22714483e2d71a4d7f2e"
   integrity sha512-qtvscq59uCPdWnNW4SdSkrxR+BS/QYsa923bx7ocA+4p+ZGNbbVQwkSnG4aukB81QWjtl3AxX36plxNyZLmHCA==
