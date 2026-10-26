@@ -23,8 +23,8 @@
     "eslint": "10.13.0",
     "@sanity/vision": "6.20.0",
     "prop-types": "15.8.1",
-    "react": "19.3.0",
-    "react-dom": "19.3.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
     "styled-components": "6.6.0"
   },
   "devDependencies": {},
