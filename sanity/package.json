@@ -25,7 +25,7 @@
     "prop-types": "15.8.1",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "styled-components": "6.6.0"
+    "styled-components": "6.7.0"
   },
   "devDependencies": {},
   "repository": {
