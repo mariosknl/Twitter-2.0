@@ -133,13 +133,13 @@
   resolved "https://registry.yarnpkg.com/@panva/hkdf/-/hkdf-1.0.4.tgz#4e02bb248402ff6c5c024e23a68438e2b0e69d67"
   integrity sha512-003xWiCuvePbLaPHT+CRuaV4GlyCAVm6XYSbBZDHoWZGn1mNkVKFaDbGJjjxmEFvizUwlCoM6O18FCBMMky2zQ==
 
-"@portabletext/react@8.0.1":
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-8.0.1.tgz#2f1ff540760405b707a46000352ebafe9c288790"
-  integrity sha512-Fy9UxVhppgEckEvczZytg4bBxiPcZIM49NrJ3sizEoz19aNzJWEYoUj7f3TI94907psEk0yfR145eoOgkedM2A==
+"@portabletext/react@8.0.2":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@portabletext/react/-/react-8.0.2.tgz#db0a437e809c501552bd55da4972700f5a4c380b"
+  integrity sha512-D825eu342QAQ379bzUXcSR1XGfwRtORsVZaAA86JCKLlShKjELUedzyd0r2B+FBsD4iJsJELKLwTQFglGdL+tw==
   dependencies:
-    "@portabletext/toolkit" "^6.0.0"
-    "@portabletext/types" "^4.0.2"
+    "@portabletext/toolkit" "^6.1.1"
+    "@portabletext/types" "^4.0.3"
 
 "@portabletext/react@^7.0.1":
   version "7.0.1"
@@ -156,17 +156,22 @@
   dependencies:
     "@portabletext/types" "^4.0.2"
 
-"@portabletext/toolkit@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@portabletext/toolkit/-/toolkit-6.0.0.tgz#1609172bc4a2d977973f0e153f9963cdb544d987"
-  integrity sha512-+qSqe0KnefuZfNLUhzQRTpbSKxslZof+3pNwxg0DC8dfZ1yLKyyBUw6iR7EpDL+SJlrnpiBfEcfmEuFitK1NSQ==
+"@portabletext/toolkit@^6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@portabletext/toolkit/-/toolkit-6.1.1.tgz#9f2e0f88eff1fd98124b8345bec6dc60b9dc7cb3"
+  integrity sha512-W04MbBkgcbRVNW3/01rs6hKbpwiDgKw8w1AGouVwG/If4gW6yrPMeYVQ0K5UfOnZztMJ3DQJQZ5CUWZ+GsuOCQ==
   dependencies:
-    "@portabletext/types" "^4.0.2"
+    "@portabletext/types" "^4.0.3"
 
 "@portabletext/types@^4.0.2":
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/@portabletext/types/-/types-4.0.2.tgz#a4665eb8ac56ec216e93b7aed867840813c083de"
   integrity sha512-djfIGU9n6DRrunlvj2nIDAp17URo/nA4jSXGvf+Gupx8NLLy9fmJBZ3GL8yhqn9lSVc+cKCharjOa3aOBnWbRw==
+
+"@portabletext/types@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@portabletext/types/-/types-4.0.3.tgz#fee442cc3e9f96b81fa119e8cd1d35975af908a3"
+  integrity sha512-jSCKrutPWitTg6gC9uf4qBbVjPZflFvZl2rSzqtMlypmP7AChg5ZJ2u4sDf2C9d9YyeTotqfT3sHZOoX1LlZIg==
 
 "@sanity/client@^7.26.2":
   version "7.26.2"
